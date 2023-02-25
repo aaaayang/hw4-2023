@@ -47,7 +47,7 @@ nav a:focus{
 
   /* Requirement 7 code here -- Do not remove this comment. */
   .about-image, .clients-image, .method-image, .contact-image{
-    grid-column: 1 / span 4;
+    grid-column: 1 / span 3;
     max-height: 500px;
   }
 
@@ -107,7 +107,7 @@ nav a:focus{
   }
 
   /* Requirement 13 code here -- Do not remove this comment. */
-  .about, .method, .clients-image, .contract-image{
+  .about, .method, .clients-image, .contact-image{
     grid-column: 3 / span 2;
   }
 
